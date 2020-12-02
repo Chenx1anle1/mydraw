@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T10:39:34.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="H1e245zNb-seiKODXSNH" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T10:40:35.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="BVMOswy-R0tgx5CYZRFJ" version="13.10.5" type="github">
   <diagram id="h-t_cLuk20GqDQr46ZdZ" name="Page-1">
-    <mxGraphModel dx="2062" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2946" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="820" height="240" as="geometry" />
+          <mxGeometry x="410" y="280" width="820" height="240" as="geometry" />
         </mxCell>
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GbvL-65d1qEDNPecQ7hQ-1" target="GbvL-65d1qEDNPecQ7hQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-1" value="使用方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GbvL-65d1qEDNPecQ7hQ-2" target="GbvL-65d1qEDNPecQ7hQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-2" value="github账号登录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GbvL-65d1qEDNPecQ7hQ-4" target="GbvL-65d1qEDNPecQ7hQ-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1140" y="415" />
-              <mxPoint x="1140" y="380" />
-              <mxPoint x="890" y="380" />
+              <mxPoint x="1110" y="385" />
+              <mxPoint x="1110" y="350" />
+              <mxPoint x="860" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GbvL-65d1qEDNPecQ7hQ-4" value="选择远程仓库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
