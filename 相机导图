@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T05:16:57.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="14.0.1" etag="qlESepch-ilqHMssSA3G" type="github"><diagram id="E18RFY2Hja-FAHLBXAX_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T05:56:10.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="f1fkEmkwHWr_fkNHAimD" version="14.0.1" type="github">
+  <diagram id="E18RFY2Hja-FAHLBXAX_" name="Page-1">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="04VnTjmvNP1Cwcouirqi-1" value="区块链相机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="389" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-18" value="市场" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="339" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-22" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="189" y="250" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" source="04VnTjmvNP1Cwcouirqi-23" target="04VnTjmvNP1Cwcouirqi-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-23" value="存证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="479" y="250" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" source="04VnTjmvNP1Cwcouirqi-26" target="04VnTjmvNP1Cwcouirqi-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-26" value="我的" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="609" y="250" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-27" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" target="04VnTjmvNP1Cwcouirqi-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="220" as="sourcePoint" />
+            <mxPoint x="459" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-29" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" source="04VnTjmvNP1Cwcouirqi-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539" y="270" as="sourcePoint" />
+            <mxPoint x="449" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-30" value="" style="endArrow=none;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="250" as="sourcePoint" />
+            <mxPoint x="449" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-32" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" source="04VnTjmvNP1Cwcouirqi-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="270" as="sourcePoint" />
+            <mxPoint x="449" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-33" value="" style="endArrow=none;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639" y="250" as="sourcePoint" />
+            <mxPoint x="449" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-34" value="" style="endArrow=none;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="340" as="sourcePoint" />
+            <mxPoint x="228.57999999999998" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="229" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-36" value="拍照&lt;br&gt;（链照）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="139" y="370" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-37" value="私有云（存储）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="259" y="370" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-38" value="视频（链拍）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="199" y="370" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-39" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" source="04VnTjmvNP1Cwcouirqi-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="390" as="sourcePoint" />
+            <mxPoint x="229" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-40" value="" style="endArrow=none;html=1;exitX=0.617;exitY=-0.056;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" source="04VnTjmvNP1Cwcouirqi-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179" y="390" as="sourcePoint" />
+            <mxPoint x="229" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-41" value="" style="endArrow=none;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="370" as="sourcePoint" />
+            <mxPoint x="229" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-42" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#EEEEEE;" edge="1" parent="1" target="04VnTjmvNP1Cwcouirqi-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="500" as="sourcePoint" />
+            <mxPoint x="419" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-43" value="市场一；&lt;br&gt;OTC市场：场外的交易市场，并非官方的&lt;br&gt;充值，积分的变现，普通用户的积分卖买积分与权益挂钩&lt;br&gt;商家入驻可进行在线商城&lt;br&gt;&lt;br&gt;市场二；&lt;br&gt;官方提供免费的文案，音乐，用户可通过上传自己的文案，图片，视频，来赚取积分&lt;br&gt;当用户需要更好的素材时，需要通过积分来获取，通过推荐算法来推送出用户喜欢的素材类型&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="269" y="440" width="229" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-44" value="存证一：&lt;br&gt;扫描功能，把一些纸质的合同转换成电子档，并上传到自己的私有云存储起来&lt;br&gt;存证二：&lt;br&gt;公司员工信息履历，员工工作评分，公开，透明，有利于公司快速了解员工表现情况（涉及隐私不公开）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="04VnTjmvNP1Cwcouirqi-47" value="收藏（文案，视频，图片，音乐）&lt;br&gt;用户的社交信息（ID，个性签名），可进行文档分享&lt;br&gt;个人银行卡账户，钱包，资产地址，数据共享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="640" y="830" width="180" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
