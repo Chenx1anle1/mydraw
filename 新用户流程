@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T02:20:08.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fuPrybeftFwfQsRiU3VQ" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T02:21:04.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yio9dujM0GyefHyqHpNv" version="14.1.2" type="github">
   <diagram id="ybsBS8Yg-erUwcgt4r8I" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="phK4klD-T8d3_N2Q27y2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="460" y="120" width="440" height="650" as="geometry" />
+          <mxGeometry x="450" y="120" width="450" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="M2jZmETy3YNMm6mqAlFL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="470" y="250" width="110" height="430" as="geometry" />
+        <mxCell id="M2jZmETy3YNMm6mqAlFL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="120" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="phK4klD-T8d3_N2Q27y2-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="phK4klD-T8d3_N2Q27y2-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="587" y="350" width="153" height="280" as="geometry" />
         </mxCell>
         <mxCell id="phK4klD-T8d3_N2Q27y2-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=none;" parent="1" vertex="1">
@@ -135,7 +135,7 @@
           <mxGeometry x="740" y="370" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M2jZmETy3YNMm6mqAlFL-3" value="daoManager系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="260" width="110" height="20" as="geometry" />
+          <mxGeometry x="465" y="260" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
