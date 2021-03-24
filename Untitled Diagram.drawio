@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T05:37:44.967Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Z2EY42ehrzbAjAkzzOlH" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T05:40:41.206Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="k0uCBk18SG2-ybZi851p" version="14.5.0" type="github">
   <diagram id="FW4lII9sdUF_YkFN8aO7" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-86" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-7" target="DHZrgceb-NQtT_5Yl5VS-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHZrgceb-NQtT_5Yl5VS-7" value="财务" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-7" value="财务模块" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-54" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-9" target="DHZrgceb-NQtT_5Yl5VS-53">
@@ -90,7 +90,7 @@
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-94" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-13" target="DHZrgceb-NQtT_5Yl5VS-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHZrgceb-NQtT_5Yl5VS-13" value="积分" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=0;" vertex="1" parent="1">
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-13" value="积分模块" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-31" value="审核流程定义，审核规则定义，" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
@@ -102,7 +102,7 @@
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-35" target="DHZrgceb-NQtT_5Yl5VS-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHZrgceb-NQtT_5Yl5VS-35" value="登录" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-35" value="登录(手机号)" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-39" value="用户信息资料修改" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
@@ -216,7 +216,7 @@
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-107" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-95" target="DHZrgceb-NQtT_5Yl5VS-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHZrgceb-NQtT_5Yl5VS-95" value="配置" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-95" value="配置模块" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="160" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-109" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-102" target="DHZrgceb-NQtT_5Yl5VS-108">
