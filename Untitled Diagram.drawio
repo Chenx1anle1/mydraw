@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T05:40:41.206Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="k0uCBk18SG2-ybZi851p" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T05:43:34.423Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="BAOUUwCwhzJCESjosyxE" version="14.5.0" type="github">
   <diagram id="FW4lII9sdUF_YkFN8aO7" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -156,6 +156,12 @@
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-62" value="创建文案" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-115" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-65" target="DHZrgceb-NQtT_5Yl5VS-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-117" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="DHZrgceb-NQtT_5Yl5VS-65" target="DHZrgceb-NQtT_5Yl5VS-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-65" value="文案详情" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -245,6 +251,12 @@
         </mxCell>
         <mxCell id="DHZrgceb-NQtT_5Yl5VS-112" value="短信，微信，支付宝，银行卡接口配置" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-114" value="推广" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHZrgceb-NQtT_5Yl5VS-116" value="分享" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
