@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:55:21.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="F7Nyd_xloqEYijjvY0bU" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T07:04:27.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Nr-Pd44g0M2o9fwr1F3v" version="14.7.2" type="github">
   <diagram id="WaBh7yVct-BflRsgmB-l" name="Page-1">
     <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#67AB9F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-28" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;dashed=1;strokeWidth=8;fillColor=none;strokeColor=#C2C2C2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="1170" height="360" as="geometry" />
+          <mxGeometry x="480" y="300" width="1020" height="360" as="geometry" />
         </mxCell>
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;dashed=1;strokeWidth=8;fillColor=none;strokeColor=#C2C2C2;" vertex="1" parent="1">
           <mxGeometry x="710" y="15" width="790" height="260" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-4" value="订单详细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#7DC7FF;strokeColor=#FFFFFF;strokeWidth=3;" edge="1" parent="1" source="5tX-PHaxaOjRYukxdHYZ-6" target="5tX-PHaxaOjRYukxdHYZ-43">
           <mxGeometry relative="1" as="geometry" />
