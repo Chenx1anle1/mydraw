@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T07:27:02.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="RVpbFTqu1vNPldxmHiPY" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T07:29:19.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ogWUx6d2RkY5AuLs03IH" version="14.7.2" type="github">
   <diagram id="WaBh7yVct-BflRsgmB-l" name="Page-1">
     <mxGraphModel dx="2426" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#67AB9F" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
           <mxGeometry x="1350" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-71" value="roomName" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="920" width="70" height="20" as="geometry" />
+          <mxGeometry x="1040" y="910" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontColor=#7DC7FF;strokeColor=#FFFFFF;strokeWidth=3;shape=flexArrow;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5tX-PHaxaOjRYukxdHYZ-59" target="5tX-PHaxaOjRYukxdHYZ-74">
           <mxGeometry relative="1" as="geometry">
@@ -199,6 +199,12 @@
         </mxCell>
         <mxCell id="5tX-PHaxaOjRYukxdHYZ-78" value="房间" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5tX-PHaxaOjRYukxdHYZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#7DC7FF;strokeColor=#FFFFFF;strokeWidth=3;fillColor=none;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="939" as="sourcePoint" />
+            <mxPoint x="1110" y="939" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
